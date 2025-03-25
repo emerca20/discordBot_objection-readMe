@@ -17,6 +17,7 @@ By using the Bot, the User agrees to be bound by the terms of this Agreement. If
 By using the Bot, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
 
 ==========
+
 PRIVACY POLICY FOR "Objection! 2.0"
 
 This Privacy Policy governs the collection, use, and sharing of personal information by "Objection! 2.0", a Discord bot developed by Eric Mercado. By using "Objection! 2.0", you agree to the terms of this Privacy Policy.
