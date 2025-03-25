@@ -1,6 +1,8 @@
 # discordBot_objection-readMe
 ToS and Privacy policies related to my Objection! discord bot
 
+==========
+
 TERMS OF SERVICE AGREEMENT
 
 This Terms of Service Agreement (the "Agreement") is entered into between Eric Mercado ("Bot Owner") and the user ("User") of the "Objection! 2.0" Discord bot (the "Bot").
