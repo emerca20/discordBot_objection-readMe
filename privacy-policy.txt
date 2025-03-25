@@ -1,0 +1,13 @@
+Privacy Policy for "Objection! 2.0"
+
+This Privacy Policy governs the collection, use, and sharing of personal information by "Objection! 2.0", a Discord bot developed by Eric Mercado. By using "Objection! 2.0", you agree to the terms of this Privacy Policy.
+
+Information We Collect
+
+We collect information that you provide to us through your use of the bot; such as your Discord Server Name, Text Channel, Voice Channel, and Message Content.
+
+How We Use Your Information
+
+- The collected Message Content information allows "Objection! 2.0" to listen for user commands.
+- The collected Text Channel information is used to ensure that "Objection! 2.0" responds to the user's command within the correct Text Channel.
+- The collected Voice Channel information is used to check whether the user is connected to a Voice Channel, and ensures that "Objection! 2.0" responds with a sound effect within the correct Voice Channel.
